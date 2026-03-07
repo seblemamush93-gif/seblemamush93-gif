@@ -1,53 +1,52 @@
-<h1 align="center">Hi 👋, I'm Seble Mamush</h1>
-<h3 align="center">💻 Software Engineering Student | 🌍 Ethiopia</h3>
+# Hi 👋, I'm Seble Mamush 
+### 👩‍💻 Software Engineering Student | Future Software Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;Future+Software+Engineer;Always+Learning+New+Things" />
+<p align="left">
+<a href="https://www.linkedin.com/in/seble-mamush-0638013b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/USER_NAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌟 About Me
-
-- 🎓 Software Engineering Student  
-- 💻 Currently learning Web Development  
-- 🌱 Improving my skills in HTML, CSS, Java & Python  
-- 🚀 Goal: Become a professional Software Engineer  
-- 📍 Based in Ethiopia  
+### 🌟 About Me
+- 🎓 **Education:** Software Engineering Student based in Ethiopia 🇪🇹
+- 💻 **Current Focus:** Deep diving into Web Development and Cloud Computing.
+- 🚀 **Goal:** To build scalable software solutions and become a Senior Software Engineer.
+- ⚡ **Fun Fact:** I love solving complex logical problems and learning new tech stacks.
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠 Tech Stack & Tools
+**Languages & Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,github,vscode" />
+**Tools & IDEs**
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Activities
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seblemamush93-gif&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seblemamush93-gif&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="94%" />
 </p>
 
 ---
 
-⭐️ From [Seble Mamush](https://github.com/seblemamush93-gif)
+### 🚀 Featured Projects
+*Coming soon... I'm currently working on some exciting web applications!*
